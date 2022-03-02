@@ -1,5 +1,5 @@
 # Overcoming Catastrophic Forgetting beyond Continual Learning: Balanced Training for Neural Machine Translation
-This repository contains the source code for our ACL 2022 paper Overcoming Catastrophic Forgetting beyond Continual Learning: Balanced Training for Neural Machine Translation [pdf](https://arxiv.org/abs/). This code is implemented based on the open-source toolkit [fairseq](https://github.com/pytorch/fairseq). We mainly modified [train.py](https://github.com/ictnlp/COKD/blob/main/train.py) and [cokd_loss.py](https://github.com/ictnlp/COKD/blob/main/fairseq/criterions/cokd_loss.py).
+This repository contains the source code for our ACL 2022 paper Overcoming Catastrophic Forgetting beyond Continual Learning: Balanced Training for Neural Machine Translation [pdf](https://arxiv.org/abs/). Our method is implemented based on the open-source toolkit [fairseq](https://github.com/pytorch/fairseq). We mainly modified [train.py](https://github.com/ictnlp/COKD/blob/main/train.py) and [cokd_loss.py](https://github.com/ictnlp/COKD/blob/main/fairseq/criterions/cokd_loss.py).
 
 # Requirements
 This system has been tested in the following environment.
