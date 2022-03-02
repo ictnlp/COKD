@@ -72,7 +72,7 @@ The expected BLEU scores are 40.86 for the Transformer baseline and 42.50 for th
 
 # Citation
 
-Please cite as:
+If you find the resources in this repository useful, please cite as:
 
 ``` bibtex
 @inproceedings{cokd,
